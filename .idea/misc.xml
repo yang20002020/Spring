@@ -7,6 +7,7 @@
     <file type="web" url="file://$PROJECT_DIR$/spring_ioc_2" />
     <file type="web" url="file://$PROJECT_DIR$/spring_ioc_3" />
     <file type="web" url="file://$PROJECT_DIR$/spring_ioc_4" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_ioc_5" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -16,6 +17,7 @@
         <option value="$PROJECT_DIR$/spring_ioc_2/pom.xml" />
         <option value="$PROJECT_DIR$/spring_ioc_3/pom.xml" />
         <option value="$PROJECT_DIR$/spring_ioc_4/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_ioc_5/pom.xml" />
       </list>
     </option>
   </component>

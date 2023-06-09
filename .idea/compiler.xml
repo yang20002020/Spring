@@ -11,6 +11,7 @@
         <module name="spring_ioc_3" />
         <module name="spring_ioc" />
         <module name="spring_ioc_4" />
+        <module name="spring_ioc_5" />
       </profile>
     </annotationProcessing>
   </component>
