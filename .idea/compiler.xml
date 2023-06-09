@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring_ioc" />
         <module name="spring_ioc_1" />
+        <module name="spring_ioc_2" />
       </profile>
     </annotationProcessing>
   </component>
