@@ -12,5 +12,7 @@ public class UserDaoDemo {
         ApplicationContext app=new ClassPathXmlApplicationContext("applicationContext.xml");
         UserDao userDao1=(UserDao) app.getBean("userDao1");
         System.out.println(userDao1);
+        UserDao userDao2=(UserDao) app.getBean("userDao1");
+        System.out.println(userDao2);
     }
 }
