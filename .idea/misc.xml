@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/spring_01" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_01_" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_02" />
     <file type="web" url="file://$PROJECT_DIR$/spring_ioc" />
     <file type="web" url="file://$PROJECT_DIR$/spring_ioc_1" />
     <file type="web" url="file://$PROJECT_DIR$/spring_ioc_2" />
     <file type="web" url="file://$PROJECT_DIR$/spring_ioc_3" />
     <file type="web" url="file://$PROJECT_DIR$/spring_ioc_4" />
     <file type="web" url="file://$PROJECT_DIR$/spring_ioc_5" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_ioc_6" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -18,6 +22,9 @@
         <option value="$PROJECT_DIR$/spring_ioc_3/pom.xml" />
         <option value="$PROJECT_DIR$/spring_ioc_4/pom.xml" />
         <option value="$PROJECT_DIR$/spring_ioc_5/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_ioc_6/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_01/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_02/pom.xml" />
       </list>
     </option>
   </component>
