@@ -4,7 +4,7 @@ import com.fuyu.dao.UserDao;
 public class UserDaoImpl implements UserDao {
     //重写无参构造
     public UserDaoImpl(){
-        System.out.println("创建构造函数.....");
+        System.out.println("创建构造函数UserDaoImpl.....");
     }
     public void init(){
         System.out.println("init.....");

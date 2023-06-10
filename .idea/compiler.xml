@@ -11,6 +11,7 @@
         <module name="spring_ioc_2" />
         <module name="spring_ioc_3" />
         <module name="spring_ioc" />
+        <module name="spring_05" />
         <module name="spring_04" />
         <module name="spring_03" />
         <module name="spring_02" />
