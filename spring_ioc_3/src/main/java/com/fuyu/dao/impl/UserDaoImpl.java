@@ -7,9 +7,11 @@ public class UserDaoImpl implements UserDao {
     public UserDaoImpl(){
         System.out.println("创建构造函数.....");
     }
+    //表示bean初始化对应的操作
     public void init(){
         System.out.println("init.....");
     }
+    //表示bean销毁之前对应的操作
     public void destory(){
         System.out.println("destory.....");
     }
