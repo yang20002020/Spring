@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    druid-->
+    <bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource">
+        <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
+        <property name="url" value="jdbc:mysql://localhost:3306/web05"/>
+        <property name="username" value="root"/>
+        <property name="password" value="fendou2017"/>
+    </bean>
+    <!-- c3p0-->
+   <bean id="dataSource1" class="com.mchange.v2.c3p0.ComboPooledDataSource" >
+<!--       com.mysql.cj.jdbc.Driver-->
+<!--       com.mysql.jdbc.Driver-->
+       <property name="driverClass" value=" com.mysql.jdbc.Driver"/>
+       <property name="jdbcUrl" value="jdbc:mysql://localhost:3306/web05"/>
+       <property name="user" value="root"/>
+       <property name="password" value="fendou2017"/>
+   </bean>
+
+
+</beans>
