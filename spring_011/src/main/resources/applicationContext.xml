@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="bookDao123" class="com.fuyu.dao.impl.BookDaoImpl" >
+        <constructor-arg name="dataBaseName" value="mysql"/>
+        <constructor-arg name="connectionNum" value="100" />
+    </bean>
+    <bean id="userDao123" class="com.fuyu.dao.impl.UserDaoImpl" />
+    <bean id="bookService123" class="com.fuyu.service.impl.BookServiceImpl">
+        <!--name对应构造函数形参的名称-->
+        <constructor-arg name="bookDao1" ref="bookDao123"/>
+        <constructor-arg name="userDao1" ref="userDao123"/>
+<!--        构造器注入和setter注入 配置文件的格式非常相似-->
+<!-- <property name="bookDao1" ref="bookDao123"/>-->
+    </bean>
+</beans>
