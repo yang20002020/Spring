@@ -33,6 +33,7 @@
         <module name="spring_ioc_2" />
         <module name="spring_ioc_3" />
         <module name="spring_ioc" />
+        <module name="spring_027" />
         <module name="spring_026" />
         <module name="spring_025" />
         <module name="spring_024" />
