@@ -17,6 +17,7 @@
     <file type="web" url="file://$PROJECT_DIR$/spring_02" />
     <file type="web" url="file://$PROJECT_DIR$/spring_020" />
     <file type="web" url="file://$PROJECT_DIR$/spring_021" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_022" />
     <file type="web" url="file://$PROJECT_DIR$/spring_03" />
     <file type="web" url="file://$PROJECT_DIR$/spring_04" />
     <file type="web" url="file://$PROJECT_DIR$/spring_05" />
@@ -63,6 +64,7 @@
         <option value="$PROJECT_DIR$/spring_019/pom.xml" />
         <option value="$PROJECT_DIR$/spring_020/pom.xml" />
         <option value="$PROJECT_DIR$/spring_021/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_022/pom.xml" />
       </list>
     </option>
   </component>
