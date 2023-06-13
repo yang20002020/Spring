@@ -22,6 +22,7 @@
         <module name="spring_015" />
         <module name="spring_014" />
         <module name="spring_013" />
+        <module name="spring_020" />
         <module name="spring_ioc_4" />
         <module name="spring_ioc_5" />
         <module name="spring_ioc_6" />
@@ -34,5 +35,8 @@
         <module name="spring_010" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring_03 (1)" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
