@@ -42,6 +42,7 @@
         <module name="spring_012" />
         <module name="spring_011" />
         <module name="spring_010" />
+        <module name="spring_030" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
