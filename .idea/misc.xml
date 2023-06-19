@@ -28,6 +28,7 @@
     <file type="web" url="file://$PROJECT_DIR$/spring_03" />
     <file type="web" url="file://$PROJECT_DIR$/spring_030" />
     <file type="web" url="file://$PROJECT_DIR$/spring_031" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_032_spring_mybatis" />
     <file type="web" url="file://$PROJECT_DIR$/spring_04" />
     <file type="web" url="file://$PROJECT_DIR$/spring_05" />
     <file type="web" url="file://$PROJECT_DIR$/spring_06" />
@@ -83,6 +84,8 @@
         <option value="$PROJECT_DIR$/spring_029/pom.xml" />
         <option value="$PROJECT_DIR$/spring_030/pom.xml" />
         <option value="$PROJECT_DIR$/spring_031/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_032_spring_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_033_spring_mybatis/pom.xml" />
       </list>
     </option>
   </component>
