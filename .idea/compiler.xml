@@ -28,6 +28,7 @@
         <module name="spring_021" />
         <module name="spring_020" />
         <module name="spring_032_spring_mybatis" />
+        <module name="spring_035_spring_aop" />
         <module name="spring_ioc_4" />
         <module name="spring_ioc_5" />
         <module name="spring_ioc_6" />
@@ -46,7 +47,7 @@
         <module name="spring_010" />
         <module name="spring_031" />
         <module name="spring_030" />
-        <module name="spring_034_spring_mybatis" />
+        <module name="spring_034_spring_junit" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

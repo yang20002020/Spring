@@ -86,7 +86,8 @@
         <option value="$PROJECT_DIR$/spring_031/pom.xml" />
         <option value="$PROJECT_DIR$/spring_032_spring_mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/spring_033_spring_mybatis/pom.xml" />
-        <option value="$PROJECT_DIR$/spring_034_spring_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_034_spring_junit/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_035_spring_aop/pom.xml" />
       </list>
     </option>
   </component>
