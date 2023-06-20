@@ -45,6 +45,7 @@
         <module name="spring_024" />
         <module name="spring_012" />
         <module name="spring_011" />
+        <module name="spring_037_spring_aop" />
         <module name="spring_010" />
         <module name="spring_031" />
         <module name="spring_030" />
