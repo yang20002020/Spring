@@ -46,6 +46,7 @@
         <module name="spring_010" />
         <module name="spring_031" />
         <module name="spring_030" />
+        <module name="spring_034_spring_mybatis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
