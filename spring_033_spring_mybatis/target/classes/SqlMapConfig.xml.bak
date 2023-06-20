@@ -22,4 +22,3 @@
         <package name="com.fuyu.dao"></package>
     </mappers>
 </configuration>
-<!--mybatis 核心配置-->

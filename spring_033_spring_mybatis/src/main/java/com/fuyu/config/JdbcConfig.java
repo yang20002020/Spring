@@ -4,7 +4,6 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import javax.sql.DataSource;
 
-
 public class JdbcConfig {
     @Value("${jdbc.driver}")
     private String driver;

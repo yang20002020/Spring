@@ -1,7 +1,5 @@
 package com.fuyu.service;
-
 import com.fuyu.domain.Account;
-
 import java.util.List;
 
 public interface AccountService {
