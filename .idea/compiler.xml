@@ -30,6 +30,7 @@
         <module name="spring_020" />
         <module name="spring_039_spring_aop" />
         <module name="spring_032_spring_mybatis" />
+        <module name="spring_040_spring_aop" />
         <module name="spring_035_spring_aop" />
         <module name="spring_ioc_4" />
         <module name="spring_ioc_5" />
