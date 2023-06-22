@@ -23,6 +23,7 @@
         <module name="spring_ioc_1" />
         <module name="spring_ioc_2" />
         <module name="spring_ioc_3" />
+        <module name="spring_050_case_transfer" />
         <module name="spring_043_spring_aop" />
         <module name="spring_012" />
         <module name="spring_047_aop_advice_data" />
