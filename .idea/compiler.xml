@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring_041_spring_aop" />
         <module name="spring_033_spring_mybatis" />
+        <module name="spring_051_case_transfer" />
         <module name="spring_019" />
         <module name="spring_018" />
         <module name="spring_017" />
