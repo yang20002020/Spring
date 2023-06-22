@@ -97,6 +97,7 @@
         <option value="$PROJECT_DIR$/spring_042_spring_aop/pom.xml" />
         <option value="$PROJECT_DIR$/spring_043_spring_aop/pom.xml" />
         <option value="$PROJECT_DIR$/spring_044_case_interface_run_speed/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_045_aop_advice_data/pom.xml" />
       </list>
     </option>
   </component>
