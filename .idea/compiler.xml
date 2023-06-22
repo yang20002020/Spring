@@ -37,6 +37,7 @@
         <module name="spring_03" />
         <module name="spring_02" />
         <module name="spring_045_aop_advice_data" />
+        <module name="spring_048_aop_advice_data" />
         <module name="spring_09" />
         <module name="spring_08" />
         <module name="spring_07" />
