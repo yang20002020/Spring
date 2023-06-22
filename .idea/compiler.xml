@@ -51,6 +51,7 @@
         <module name="spring_ioc_6" />
         <module name="spring_ioc" />
         <module name="spring_036_spring_aop" />
+        <module name="spring_049_case_handle_password" />
         <module name="spring_046_aop_advice_data" />
         <module name="spring_029" />
         <module name="spring_028" />
