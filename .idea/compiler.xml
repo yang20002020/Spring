@@ -49,6 +49,7 @@
         <module name="spring_040_spring_aop" />
         <module name="spring_035_spring_aop" />
         <module name="spring_ioc_4" />
+        <module name="spring_053_case_transfer_log" />
         <module name="spring_ioc_5" />
         <module name="spring_ioc_6" />
         <module name="spring_ioc" />
