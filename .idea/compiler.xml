@@ -65,6 +65,7 @@
         <module name="spring_037_spring_aop" />
         <module name="spring_031" />
         <module name="spring_030" />
+        <module name="spring_054_case_transfer_log" />
         <module name="spring_052_case_transfer" />
       </profile>
     </annotationProcessing>
