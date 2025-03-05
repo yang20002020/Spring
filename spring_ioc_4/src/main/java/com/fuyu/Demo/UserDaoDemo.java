@@ -5,7 +5,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /*
-客户端代码
+客户端代码·
  */
 public class UserDaoDemo {
     public static void main(String[] args){
