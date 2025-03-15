@@ -19,13 +19,11 @@ public class AccountServiceTest {
     @Test
     public void testFindById(){
         Account byId = accountService.findById(1);
-        System.out.println(byId);
     }
 
     @Test
     public void testFindAll(){
         List<Account> all = accountService.findAll();
-        System.out.println(all);
     }
 
 }
