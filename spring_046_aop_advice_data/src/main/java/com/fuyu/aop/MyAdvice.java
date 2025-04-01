@@ -30,7 +30,12 @@ public class MyAdvice {
     @Around("pt()")
     public Object around(ProceedingJoinPoint pjp) {
         Object[] args = pjp.getArgs();
-        System.out.println(Arrays.toString(args));
+        try {
+            System.out.println(Arrays.toString(args));
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        } finally {
+        }
         args[0] = 666;
         Object ret = null;
         try {
